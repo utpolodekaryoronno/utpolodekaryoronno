@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utpol Odekary</h1>
-<h3 align="center">Front End Developer & Laravel Expert From ->(Bangladesh)</h3>
+<h3 align="center">Front End Developer & Laravel Expert</h3>
 
 <p align="center"><img alt="codding" style="width:300;" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp"></p>
 
