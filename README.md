@@ -5,10 +5,10 @@
 
 <h2 align="center">🙋‍♂️ ABOUT ME 🙋‍♂️</h2>
 
-<p align="center"> Hi, I am Utpol Odekary, A Professional Front End Developer & Laravel Specialist. 
+<p align="center"> Hi 🙏 I am Utpol Odekary, A Professional Front End Developer & Laravel Specialist. 
 I enjoy developing with PHP and Laravel.
 With more than 4+ YEARS of working experience in creating a designing and responsive website. 
-I am an expert in Website designing Using HTML5, CSS3, Bootstrap, Mysql, jQuery, PSD, XD, SKETCH, WordPress Customize, and FIGMA to HTML landing pages, etc. 
+I am an expert in Website designing Using ✅HTML5 ✅CSS3 ✅Bootstrap ✅JavaScript ✅jQuery ✅Figma ✅PSD ✅XD ✅SKETCH ✅WordPress Customize, and FIGMA to HTML landing pages, etc. 
 I am also an expert in My code Responsive, Mobile friendly, and W3C Validated. You need my service Contact me. </p>
 
 </br>
