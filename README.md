@@ -29,7 +29,7 @@ I am also an expert in My code Responsive, 📱 Mobile friendly, and W3C Validat
 
 - 📫 How to reach me **info.utpolodekary@gmail.com**
 
-- 📄 Know about my experiences (https://utpolodekary.netlify.app/)
+- 📄 Know about my experiences: https://utpolodekary.netlify.app/
 
 - ⚡ Fun fact **I think I am funny**
 
