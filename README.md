@@ -1,15 +1,26 @@
-<h1 align="center">Hi 👋, I'm Utpol Odekary</h1>
-<h3 align="center">Front End Developer & Laravel Expert</h3>
+<h1 align="center">👋 Hi, I'm Utpol Odekary</h1>
+<h3 align="center">💻 Front-End Expert & Laravel Web App Developer</h3>
 
-<p align="center"><img alt="codding" style="width:300;" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp"></p>
+<p align="center">
+  <img alt="coding" width="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
+</p>
 
 <h2 align="center">🙋‍♂️ ABOUT ME 🙋‍♂️</h2>
 
-<p align="center"> Hi 🙏 I am Utpol Odekary, A Professional Front End Developer & Laravel Specialist. 
-I enjoy developing with ☑️PHP and ☑️Laravel.
-With more than 4+ YEARS of working experience in creating a designing and 💻responsive website. 
-I am an expert in Website designing Using ✅HTML5 ✅CSS3 ✅Bootstrap ✅JavaScript ✅jQuery ✅Figma ✅PSD ✅XD ✅SKETCH ✅WordPress Customize, and FIGMA to HTML landing pages, etc. 
-I am also an expert in My code Responsive, 📱 Mobile friendly, and W3C Validated.If you want my service Contact me 📞 </p>
+<p align="center">
+  Hello! 🙏 I'm <strong>Utpol Odekary</strong>, a passionate <strong>Front-End Specialist</strong> and <strong>Laravel Web App Developer</strong>.  
+  I love building modern, responsive, and high-performance web applications using <strong>PHP</strong> and <strong>Laravel</strong>.  
+  <br><br>
+  With over <strong>4 years of professional experience</strong>, I’ve developed expertise in creating pixel-perfect and user-friendly websites.  
+  I specialize in:  
+  ✅ <strong>HTML5</strong> | ✅ <strong>CSS3</strong> | ✅ <strong>Bootstrap</strong> | ✅ <strong>Tailwind CSS </strong> |  ✅ <strong>Vue.js </strong> | ✅ <strong>JavaScript</strong> | ✅ <strong>jQuery</strong> ✅ <strong>Figma</strong> | ✅ <strong>PSD to HTML</strong> | ✅ <strong>XD</strong> | ✅ <strong>Sketch</strong>  
+  <br><br>
+  My code is always <strong>responsive</strong>, <strong>mobile-friendly</strong>, and <strong>W3C validated</strong>.  
+  I take pride in writing clean, maintainable, and efficient code to ensure an excellent user experience across all devices.  
+  <br><br>
+  📞 If you’d like to collaborate or need my services, feel free to <strong>contact me anytime!</strong>
+</p>
+
 
 </br>
 </br>
@@ -25,7 +36,7 @@ I am also an expert in My code Responsive, 📱 Mobile friendly, and W3C Validat
 
 - 👨‍💻 All of my projects are available at [https://github.com/utpolodekaryoronno/All-Project-Link-Here](https://github.com/utpolodekaryoronno/All-Project-Link-Here)
 
-- 💬 Ask me about **Html, Css, Bootstrap, JavaScript, Jquery, PHP, Laravel-10, Wordpress**
+- 💬 Ask me about **Html, Css, Bootstrap, Tailwind CSS, JavaScript, Jquery, Vue.js, PHP, Laravel-12**
 
 - 📫 How to reach me **info.utpolodekary@gmail.com**
 
