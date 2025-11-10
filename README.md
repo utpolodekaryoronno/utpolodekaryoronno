@@ -2,7 +2,7 @@
 <h3 align="center">💻 Front-End Expert & Laravel Web App Developer</h3>
 
 <p align="center">
-  <img alt="coding" width="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
+  <img alt="coding" width="600" height="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 </p>
 
 <h2 align="center">🙋‍♂️ ABOUT ME 🙋‍♂️</h2>
